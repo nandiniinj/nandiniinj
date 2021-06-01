@@ -12,5 +12,5 @@
 
 
 
-![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandiniinj&theme=dark&show_icons=true)
+![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandiniinj&theme=midnight-purple&show_icons=true)
 
