@@ -9,7 +9,7 @@
 
 <hr>
 
-![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandiniinj&show_icons=true&theme=radical&hide_border=true) 
+![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandiniinj&show_icons=true&theme=radical&hide_border=true) \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandiniinj&layout=compact&theme=radical&hide_border=true)](https://github.com/nandiniinj) \
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandiniinj&theme=radical&hide_border=true)](https://git.io/streak-stats)
 <!-- Actual text -->
