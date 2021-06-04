@@ -1,7 +1,7 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 👋 I'm Nandini Jain. \
-🔭 I’m currently persuing Computer Science and Engineering. \
+🔭 I’m currently persuing Computer Science and Engineering with specialization in AI & ML. \
 💻 Python | C++ | HTML | CSS. \
 🌱 I’m currently learning Web Development, Data Science. \
 ⚡ Fun fact: 👀??
