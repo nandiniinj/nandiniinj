@@ -3,8 +3,8 @@
 👋 I'm Nandini Jain. \
 🔭 I’m currently persuing Computer Science and Engineering with specialization in AI & ML. \
 💻 Python | C++ | HTML | CSS. \
-🌱 I’m currently learning Web Development, Data Science. \
-⚡ Fun fact: 👀??
+🌱 I’m currently learning Web Development, Data Science. \ 
+⚡ Member of the winning team in GeekWeekLocal: GWL hackathon 2021 by GeeksForGeeks. \
 
 
 <hr>
