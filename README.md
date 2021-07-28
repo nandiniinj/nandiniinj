@@ -16,7 +16,7 @@
 
 # Reach me :
 [![Twitter][1.4]][1]  [![LinkedIn][2.4]][2] [![Instagram][4.4]][3] \
-[![G-mail][3.4]][4] 
+[![G-mail][3.4]][4] nandinijain3013@gmail.com
 <!-- Icons -->
 
 [1.4]: https://img.icons8.com/color/48/000000/twitter--v1.png
@@ -29,7 +29,7 @@
 [1]: https://twitter.com/Nandinii_nj
 [2]: https://www.linkedin.com/in/nandinijain-nj/
 [3]: https://www.instagram.com/nandinii_nj/
-[4]: nandinijain3013@gmail.com
+
 
 
 
