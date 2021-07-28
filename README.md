@@ -16,7 +16,7 @@
 
 # Reach me :
 [![Twitter][1.4]][1]  [![LinkedIn][2.4]][2] [![Instagram][4.4]][3] \
-[![G-mail][3.4]][4] nandinijain3013@gmail.com
+[![G-mail][3.4]][3] nandinijain3013@gmail.com
 <!-- Icons -->
 
 [1.4]: https://img.icons8.com/color/48/000000/twitter--v1.png
