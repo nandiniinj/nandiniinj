@@ -1,6 +1,7 @@
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## <p align="center">Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+# <p align="center">I'm Nandini Jain </p>
 
-👋 I'm Nandini Jain. \
+
 🔭 I’m currently persuing Computer Science and Engineering with specialization in AI & ML. \
 💻 Python | C++ | HTML | CSS. \
 🌱 I’m currently learning Web Development, Data Science. \
@@ -9,27 +10,20 @@
 
 <hr>
 
-![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandiniinj&show_icons=true&theme=radical&hide_border=true) \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandiniinj&layout=compact&theme=radical&hide_border=true)](https://github.com/nandiniinj) \
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandiniinj&theme=radical&hide_border=true)](https://git.io/streak-stats)
-<!-- Actual text -->
 
-# Reach me :
-[![Twitter][1.4]][1]  [![LinkedIn][2.4]][2] [![Instagram][4.4]][3] \
-[![G-mail][3.4]][3] nandinijain3013@gmail.com
-<!-- Icons -->
+![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandiniinj&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=7F1DA2&bg_color=0D111700)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandiniinj&theme=radical&title_color=F16707&hide_border=true" width="335px" data-canonical->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandiniinj&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=E7E7E7FF&sideLabels=EFEFE6&dates=4F5D78&stroke=7F1DA2)](https://git.io/streak-stats)
+<br>
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-nandiniinj&style=flat-square&color=232323">
+<hr>
 
-[1.4]: https://img.icons8.com/color/48/000000/twitter--v1.png
-[2.4]: https://img.icons8.com/fluent/48/000000/linkedin.png
-[3.4]: https://img.icons8.com/color/48/000000/gmail.png
-[4.4]: https://img.icons8.com/color/48/000000/instagram-new--v2.png
+### You can connect with me from _here_ 📧:
 
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Nandinii_nj
-[2]: https://www.linkedin.com/in/nandinijain-nj/
-[3]: https://www.instagram.com/nandinii_nj/
-
+[<img height=40 width=40 alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">](mailto:nandinijain3013@gmail.com)
+[<img height=40 width=40 alt="Connect on LinkedIn" src="https://image.flaticon.com/icons/png/128/145/145807.png">](https://www.linkedin.com/in/nandinijain-nj/) 
+[<img height=40 width=40 alt="Visit my Twitter Profile" src="https://image.flaticon.com/icons/png/128/145/145812.png">](https://twitter.com/Nandinii_nj)  
+[<img height=40 width=40 alt="Visit my Instagram Profile" src="https://image.flaticon.com/icons/png/512/1057/1057248.png">](https://www.instagram.com/nandinii_nj/)
 
 
 
