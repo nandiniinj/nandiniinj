@@ -20,10 +20,10 @@
 
 ### You can connect with me from _here_ 📧:
 
-[<img height=40 width=40 alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">](mailto:nandinijain3013@gmail.com)
-[<img height=40 width=40 alt="Connect on LinkedIn" src="https://image.flaticon.com/icons/png/128/145/145807.png">](https://www.linkedin.com/in/nandinijain-nj/) 
-[<img height=40 width=40 alt="Visit my Twitter Profile" src="https://image.flaticon.com/icons/png/128/145/145812.png">](https://twitter.com/Nandinii_nj)  
-[<img height=40 width=40 alt="Visit my Instagram Profile" src="https://image.flaticon.com/icons/png/512/1057/1057248.png">](https://www.instagram.com/nandinii_nj/)
+[<img height=40 width=40 alt="Mail me" src="[https://image.flaticon.com/icons/png/512/552/552486.png](https://cdn-icons-png.flaticon.com/512/732/732200.png)">](mailto:nandinijain3013@gmail.com)
+[<img height=40 width=40 alt="Connect on LinkedIn" src="[https://image.flaticon.com/icons/png/128/145/145807.png"](https://cdn-icons-png.flaticon.com/512/3536/3536505.png)>](https://www.linkedin.com/in/nandinijain-nj/) 
+[<img height=40 width=40 alt="Visit my Twitter Profile" src="[https://image.flaticon.com/icons/png/128/145/145812.png](https://cdn-icons-png.flaticon.com/128/733/733579.png)">](https://twitter.com/Nandinii_nj)  
+[<img height=40 width=40 alt="Visit my Instagram Profile" src="[https://image.flaticon.com/icons/png/512/1057/1057248.png](https://cdn-icons-png.flaticon.com/512/1384/1384063.png)">](https://www.instagram.com/nandinii_nj/)
 
 
 
