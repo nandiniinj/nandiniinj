@@ -3,7 +3,7 @@
 
 
 🔭 Sophomore undergrad at VIT Bhopal persuing Computer Science and Engineering with specialization in AI & ML. \
-💻 Python | C++ | HTML | CSS. \
+💻 Java | Python | HTML | CSS | C++. \
 🌱 I’m currently learning Web Development, Data Science. \
 ⚡ Member of the winning team in GeekWeekLocal: GWL hackathon 2021 by GeeksForGeeks. 
 
