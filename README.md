@@ -2,7 +2,7 @@
 # <p align="center">I'm Nandini Jain </p>
 
 
-🔭 Sophomore undergrad at VIT Bhopal persuing Computer Science and Engineering with specialization in AI & ML. \
+🔭 Sophomore undergrad at VIT Bhopal pursuing Computer Science and Engineering with specialization in AI & ML. \
 💻 Java | Python | HTML | CSS | C++ | PHP. \
 🌱 I’m currently learning Web Development, Data Science. \
 ⚡ Member of the winning team in GeekWeekLocal: GWL hackathon 2021 by GeeksForGeeks. 
