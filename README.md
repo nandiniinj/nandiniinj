@@ -4,7 +4,7 @@
 
 🔭 Final year undergrad at VIT Bhopal pursuing Computer Science and Engineering with specialization in AI & ML. \
 💻 Java | Python | HTML | CSS | C++ | PHP | Flask | MySQL | MongoDB. \
-🌱 I’m currently learning Web Development, Data Science. \
+🌱 Technology Intern at Chubb. \
 ⚡ Member of the winning team in GeekWeekLocal: GWL hackathon 2021 by GeeksForGeeks. 
 
 
